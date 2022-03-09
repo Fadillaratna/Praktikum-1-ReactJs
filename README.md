@@ -1,4 +1,4 @@
-# Practikum 1
+# Praktikum 1
 Program sederhana `Body Mass Index (BMI)`, `Cicilan Bank`, `Harga Akhir (PPN & Discount)`, dan `Konversi Bilangan` dengan `useState` React Js
 
 ## Home
